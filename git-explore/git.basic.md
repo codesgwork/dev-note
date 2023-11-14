@@ -11,6 +11,7 @@
 `.git ignore`
 
 `git remote remove origin` To remove a remote origin in Visual Studio Code,
+
 `git remote -v` To Verify that the remote origin has been removed by running
 
 ## basic- first steps
